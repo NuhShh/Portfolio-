@@ -85,4 +85,4 @@ Python, Data Analysis, Recommender Systems, Machine Learning
 Analyzed 300K+ interactions and identified trade-offs between personalization and product diversity. Developed a graph-based recommendation approach that improved recommendation accuracy by 2x compared to baseline methods.  
 Findings highlight the importance of balancing recommendation relevance with diversity to support better user experience and business outcomes.
 
-[**See my research →**](https://ieeexplore.ieee.org/document/11399522)
+[**Research link →**](https://ieeexplore.ieee.org/document/11399522)
