@@ -50,7 +50,7 @@ Recommendations include implementing bundle strategies and expanding into underp
 ---
 ### 🔹 Additional Projects
 
-### Olympic Data Storytelling & Analysis | Insights from 270K+ Athlete Records
+### Olympic Data Storytelling & Analysis
 
 **Overview:**  
 Conducted exploratory data analysis on 270K+ Olympic athlete records spanning more than 120 years using Python, focusing on uncovering long-term trends in global sports participation and performance.
@@ -70,7 +70,7 @@ Uncovered key insights on participation growth, country dominance, and medal dis
 
 ### 🔹 Research Project
 
-### Product Recommendation System (Research Project) | Amazon Reviews Dataset
+### Product Recommendation System for Amazon Reviews
 
 **Overview:**  
 Analyzed large-scale user–product interaction data to evaluate recommendation strategies and improve product discovery in e-commerce settings.
