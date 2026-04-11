@@ -7,6 +7,7 @@ I'm Nuh, a data analyst with hands-on experience in building end-to-end data-dri
 ---
 
 ## Portfolio Projects
+Here is a brief overview of my projects.
 
 ### 1. E-Commerce Funnel Analysis for Maven Fuzzy Factory
 
