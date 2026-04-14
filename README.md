@@ -6,9 +6,7 @@ I'm Nuh, a data analyst with hands-on experience in building end-to-end data-dri
 
 ---
 
-## Portfolio Projects
-
-### 🔹 Core Projects
+## • Core Projects
 
 ### 1. E-Commerce Funnel Analysis for Maven Fuzzy Factory
 
@@ -46,9 +44,7 @@ Recommendations include implementing bundle strategies and expanding into underp
 
 ---
 
-
----
-### 🔹 Additional Projects
+## • Additional Projects
 
 ### Olympic Data Storytelling & Analysis
 
@@ -68,7 +64,7 @@ Uncovered key insights on participation growth, country dominance, and medal dis
 
 ---
 
-### 🔹 Research Project
+## • Research Project
 
 ### Product Recommendation System for Amazon Reviews
 
